@@ -1,4 +1,4 @@
-= gevent StreamServer examples
+# gevent StreamServer examples
 
 I couldn't find a nice, concise gevent SSL StreamServer example anywhere, so I
 threw this together to demonstrate how you might go about building a very
